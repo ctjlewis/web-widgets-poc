@@ -43,7 +43,7 @@ Web Widgets is a proof-of-concept that aims to improve on these pain points. Web
 
 ### What is a frozen layout?
 
-Frozen layouts are stateful layouts which will hydrate themselves and kick of their own state logic when sent to a browser, and:
+Frozen layouts are stateful layouts which will hydrate themselves and kick off their own state logic when sent to a browser, and:
 
 - are **optimized** for size and dead code elimination
   - only the styles used in the layout will be included
